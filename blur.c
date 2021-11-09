@@ -2,13 +2,13 @@
 #include <stdlib.h>
 #include <omp.h>
 
-#define NUM_THREADS 40
+#define NUM_THREADS 1
 
 int main()
 { 
     int nthreads;
     FILE *image, *outputImage, *lecturas;
-    image = fopen("f2b.bmp","rb");          //Imagen original a transformar
+    image = fopen("f1b.bmp","rb");          //Imagen original a transformar
     outputImage = fopen("img4_dd.bmp","wb");    //Imagen transformada
     long ancho;
     long alto;
@@ -123,7 +123,7 @@ int main()
             img[row][column]= center;
             
             //printf(" ");
-            printf(" \n %f %i %i",center,row, column);
+           // printf(" \n %f %i %i",center,row, column);
             center = 0.0;
           }
       }      
