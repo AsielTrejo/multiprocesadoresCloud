@@ -41,6 +41,6 @@ void main() {
 		const double endTime = omp_get_wtime();
 		tiempo=t2-t1;
 		//printf("resultado es pi= (%lf), con %ld pasos \n",pi,num_pasos); 
-		printf("Tiempo es %lf\n\n", (endTime - startTime));
+		printf("Tiempo = %lf\n\n", (endTime - startTime));
 	}
 }
