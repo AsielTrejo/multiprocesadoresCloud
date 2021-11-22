@@ -18,4 +18,4 @@ Ejemplo:
 ```
 ./integral > integral_results.csv
 ```
-### 3. Abrir el CSV generado con Excel. Copiar y pegar resultados en {nombre_programa}_results.csv en una pestaña diferente para cada equipo/nube.
+### 3. Abrir el CSV generado con Excel. Copiar y pegar resultados en {nombre_programa}_results.csv en una pestaña diferente para cada equipo/nube.
