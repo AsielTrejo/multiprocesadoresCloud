@@ -2,15 +2,14 @@
 #include <stdlib.h>
 #include <omp.h>
 
-#define NUM_THREADS 20
+#define NUM_THREADS 1
 
-for (int z = 0;i<)
+
 int main()
 { 
     int nthreads;
     FILE *image, *outputImage, *lecturas;
-    image = fopen("f1b.bmp","rb");          //Imagen original a transformar
-    outputImage = fopen("img4_dd.bmp","wb");    //Imagen transformada
+
     long ancho;
     long alto;
     unsigned char r, g, b;               //Pixel
@@ -22,7 +21,9 @@ int main()
     int hr[256];
     int hgray[256];
 
-
+  for (int z = 1; z<100; z++){
+    image = fopen("f1b.bmp","rb");          //Imagen original a transformar
+    outputImage = fopen("img4_dd.bmp","wb");    //Imagen transformada
     //Limpiamos arreglos
     for (int i = 0; i<256;i++){
       hb[i]=0;
@@ -86,7 +87,7 @@ int main()
     int auxcolumn=0;
 
 
-    omp_set_num_threads(NUM_THREADS);
+    omp_set_num_threads(z);
     const double startTimeP = omp_get_wtime();
 
   #pragma omp parallel
@@ -117,11 +118,12 @@ int main()
 
 
     const double endTimeP = omp_get_wtime();
-    printf("Tiempo paralelo es %lf\n\n", (endTimeP - startTimeP));
-
-    free(ptr);
-    //free(aux);
+    printf("Tiempo paralelo es %lf  Thread %i  \n", (endTimeP - startTimeP),z);
     fclose(image);
     fclose(outputImage);
+}
+    free(ptr);
+    //free(aux);
+
     return 0;
 }

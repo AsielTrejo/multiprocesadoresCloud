@@ -1,0 +1,174 @@
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 2.008825  Thread 1  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 3.864176  Thread 2  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 6.432148  Thread 3  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 5.745242  Thread 4  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.740857  Thread 5  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.882729  Thread 6  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 7.825046  Thread 7  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 7.958293  Thread 8  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.148140  Thread 9  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.532343  Thread 10  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.822043  Thread 11  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.179452  Thread 12  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.745413  Thread 13  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.614122  Thread 14  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.037775  Thread 15  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.551169  Thread 16  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.837228  Thread 17  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.596427  Thread 18  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.076138  Thread 19  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.748387  Thread 20  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.866364  Thread 21  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.345434  Thread 22  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.648209  Thread 23  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.330762  Thread 24  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.322773  Thread 25  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.732073  Thread 26  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.051391  Thread 27  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.063719  Thread 28  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.596342  Thread 29  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.192919  Thread 30  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.860135  Thread 31  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.109677  Thread 32  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.240286  Thread 33  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.586757  Thread 34  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.893033  Thread 35  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.359155  Thread 36  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.423392  Thread 37  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.942170  Thread 38  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.417486  Thread 39  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.990267  Thread 40  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.132468  Thread 41  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.114505  Thread 42  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.181505  Thread 43  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.929603  Thread 44  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.091540  Thread 45  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.037173  Thread 46  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.826066  Thread 47  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.269236  Thread 48  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.757957  Thread 49  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.129498  Thread 50  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.221001  Thread 51  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 7.808776  Thread 52  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.248808  Thread 53  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.905970  Thread 54  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.622363  Thread 55  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.051971  Thread 56  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 8.888785  Thread 57  
+largo img 2160
+ancho img 3840
+Tiempo paralelo es 9.085245 
