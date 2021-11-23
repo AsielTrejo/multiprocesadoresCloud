@@ -36,7 +36,6 @@ int main()
           g = fgetc(image);
           r = fgetc(image);
 
-
           unsigned char pixel = 0.21*r+0.72*g+0.07*b;
 
           ptr[cuenta] = pixel; //b
