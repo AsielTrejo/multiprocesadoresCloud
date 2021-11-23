@@ -29,8 +29,8 @@ int main()
 
       ptr = (unsigned char*)malloc(alto*ancho*3* sizeof(unsigned char));
 
-      #pragma omp parallel
-      {
+      //#pragma omp parallel
+      //{
         while(!feof(image)){
           b = fgetc(image);
           g = fgetc(image);
@@ -43,7 +43,7 @@ int main()
           cuenta++;
 
         }
-      }
+      //}
 
       //Matriz de 7x7
       int linea=0;
