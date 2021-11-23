@@ -72,7 +72,7 @@ int main()
   }
   
     const double endTimeP = omp_get_wtime();
-    printf("Tiempo paralelo es %lf  Thread %i  \n", (endTimeP - startTimeP),NUM_THREADS);
+    printf(" %lf , %i  \n", (endTimeP - startTimeP),NUM_THREADS);
     free(ptr);  
     fclose(image);
     fclose(outputImage);
