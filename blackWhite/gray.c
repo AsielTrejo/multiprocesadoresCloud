@@ -8,7 +8,7 @@
 int main()
 { 
 
-  for (int NUM_THREADS = 1; NUM_THREADS<10; ++NUM_THREADS){
+  for (int NUM_THREADS = 1; NUM_THREADS<100; ++NUM_THREADS){
     omp_set_num_threads(NUM_THREADS);
 
     FILE *image, *outputImage, *lecturas;
@@ -39,8 +39,7 @@ int main()
     
 
   const double startTimeP = omp_get_wtime();
-  //#pragma omp parallel
-   // {
+
     while(!feof(image)){
       b = fgetc(image);
       g = fgetc(image);
@@ -49,12 +48,11 @@ int main()
       unsigned char pixel = 0.21*r+0.72*g+0.07*b;
 
       ptr[cuenta] = pixel; //b
-      //ptr[cuenta+1] = pixel; //g
-      //ptr[cuenta+2] = pixel; //r
+      //ptr[cuenta+1] = pixel; //g is ignored 
+      //ptr[cuenta+2] = pixel; //r is ignored 
       cuenta++;
 
-    }
-    // }                                  
+    }                              
 
     //Grises
     int row=0;
