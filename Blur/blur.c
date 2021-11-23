@@ -74,7 +74,7 @@ int main()
     int column = 0;
     int ac = 0;
     float center = 0.0;
-    int number = 9;
+    int number = 21;
     int finishLine= ancho-1;
     int finishRow = alto-1;
     float factor = 1.0/(number*number);
